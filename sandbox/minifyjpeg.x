@@ -6,6 +6,7 @@
 struct number{
 	int num1;
 	int num2;
+	void data<>;
 };
 
 program ADDITION {
